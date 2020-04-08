@@ -20,3 +20,5 @@ const useDarkMode = (key, intValue) => {
 };
 
 export default useDarkMode;
+
+//this is weird
